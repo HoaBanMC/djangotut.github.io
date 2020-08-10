@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/mnt/d/LearnCode/Django/Djangoenv/bin/python3",
+    "python.formatting.provider": "yapf",
+}
